@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 void func1(){
-    //hola mundo;
+    //hola mundo hago un nuevo agregado aca;
 };
 
 void func2(){
