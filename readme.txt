@@ -4,6 +4,6 @@ void func1(){
 };
 
 void func2(){
-    re loco picaroon
+    re loco picaroon ah te la creiste lele jaja
 };
 >>>>>>> branch2
